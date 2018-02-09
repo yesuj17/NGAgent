@@ -24,7 +24,7 @@ namespace NCAgent
 
         private void connectButton_Click(object sender, EventArgs e)
         {
-
+			/// Connect Click Handler
         }
     }
 }
