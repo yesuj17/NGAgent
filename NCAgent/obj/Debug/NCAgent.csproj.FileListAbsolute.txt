@@ -1,1 +1,13 @@
 E:\100_POJECT\190_한화기계\195_공작기계\01_Source Code\NCAgent\NCAgent\bin\Debug\NCAgent.exe.config
+E:\100_POJECT\190_한화기계\195_공작기계\01_Source Code\NGAgent\NCAgent\bin\Debug\NCAgent.exe.config
+E:\100_POJECT\190_한화기계\195_공작기계\01_Source Code\NGAgent\NCAgent\bin\Debug\NCAgent.exe
+E:\100_POJECT\190_한화기계\195_공작기계\01_Source Code\NGAgent\NCAgent\bin\Debug\NCAgent.pdb
+E:\100_POJECT\190_한화기계\195_공작기계\01_Source Code\NGAgent\NCAgent\obj\Debug\NCAgent.csprojResolveAssemblyReference.cache
+E:\100_POJECT\190_한화기계\195_공작기계\01_Source Code\NGAgent\NCAgent\obj\Debug\NCAgent.MaintFrame.resources
+E:\100_POJECT\190_한화기계\195_공작기계\01_Source Code\NGAgent\NCAgent\obj\Debug\NCAgent.Properties.Resources.resources
+E:\100_POJECT\190_한화기계\195_공작기계\01_Source Code\NGAgent\NCAgent\obj\Debug\NCAgent.csproj.GenerateResource.Cache
+E:\100_POJECT\190_한화기계\195_공작기계\01_Source Code\NGAgent\NCAgent\obj\Debug\NCAgent.exe
+E:\100_POJECT\190_한화기계\195_공작기계\01_Source Code\NGAgent\NCAgent\obj\Debug\NCAgent.pdb
+E:\100_POJECT\190_한화기계\195_공작기계\01_Source Code\NGAgent_Branch\NCAgent\bin\Debug\NCAgent.exe.config
+E:\100_POJECT\190_한화기계\195_공작기계\01_Source Code\NGAgent_Branch\NCAgent\obj\Debug\NCAgent.exe
+E:\100_POJECT\190_한화기계\195_공작기계\01_Source Code\NGAgent_Branch\NCAgent\obj\Debug\NCAgent.pdb
