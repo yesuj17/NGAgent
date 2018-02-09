@@ -19,7 +19,7 @@ namespace NCAgent
 
         private void sendButton_Click(object sender, EventArgs e)
         {
-            /* Send Button Click 111111111 */
+            /* Send Button Click 222222 */
         }
 
         private void connectButton_Click(object sender, EventArgs e)
